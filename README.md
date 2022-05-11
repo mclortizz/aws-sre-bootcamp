@@ -11,6 +11,7 @@ Se você estiver fazendo exercício em modo offline e tiver alguma dúvida, pode
 
 Os exercícios práticos estão em ordem de apresentação do curso SRE BootCamp.
 
+## Dia 1
 <b>Módulo IDENTITY AND ACCESS MANAGEMENT (IAM)</b>
 
 1) Criando diferentes grupos e usuários no IAM.
@@ -26,3 +27,9 @@ Os exercícios práticos estão em ordem de apresentação do curso SRE BootCamp
 3) Instalando um servidor WEB e configurando o security group.
 
    https://github.com/mclsylva/aws-sre-bootcamp/blob/main/3%20-%20Instalando%20Servidor%20Web%20e%20Configurando%20Security%20Group.pdf
+  
+4) Limpando a casa.
+
+   https://github.com/mclsylva/aws-sre-bootcamp/blob/main/4%20-%20Limpando%20a%20casa.pdf
+
+SE CHEGOU ATÉ AQUI: BOM TRABALHO! BOM DESCANSO E NOS VEMOS NO DIA 2!
