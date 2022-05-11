@@ -1,5 +1,5 @@
 # aws-sre-bootcamp
-Exercícios práticos sobre os conceitos da AWS.
+## Exercícios práticos sobre o módulo de fundamentos da AWS.
 
 Bem-vindes ao curso de SRE BootCamp, módulo de conceitos básicos da AWS. Aqui você vai encontrar o passo a passo de todos os exercícios práticos do curso.
 
@@ -11,6 +11,6 @@ Se você estiver fazendo exercíco em modo offline e tiver alguma dúvida, pode 
 
 Os exercícios práticos estão em ordem de apresentação do curso SRE BootCamp.
 
-Módulo IDENTITY AND ACCESS MANAGEMENT (IAM)
-1) Criando diferente grupos e usuários no IAM.
+<b>Módulo IDENTITY AND ACCESS MANAGEMENT (IAM)</b>
+1) Criando diferenteS grupos e usuários no IAM.
 2) Habilitando o MFA na sua conta da AWS.
