@@ -24,3 +24,5 @@ Os exercícios práticos estão em ordem de apresentação do curso SRE BootCamp
    https://github.com/mclsylva/aws-sre-bootcamp/blob/main/2%20-%20Criando%20uma%20insta%CC%82ncia%20Linux%20EC2.pdf
 
 3) Instalando um servidor WEB e configurando o security group.
+
+   https://github.com/mclsylva/aws-sre-bootcamp/blob/main/3%20-%20Instalando%20Servidor%20Web%20e%20Configurando%20Security%20Group.pdf
