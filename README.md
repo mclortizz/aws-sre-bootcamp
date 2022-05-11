@@ -12,6 +12,7 @@ Se você estiver fazendo exercíco em modo offline e tiver alguma dúvida, pode 
 Os exercícios práticos estão em ordem de apresentação do curso SRE BootCamp.
 
 <b>Módulo IDENTITY AND ACCESS MANAGEMENT (IAM)</b>
+
 1.1) Criando diferentes grupos e usuários no IAM.
 
    https://github.com/mclsylva/aws-sre-bootcamp/blob/main/1%20-%20Criando%20Grupos%20e%20Usua%CC%81rios%20no%20IAM.pdf
