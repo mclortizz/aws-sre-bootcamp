@@ -19,6 +19,6 @@ Os exercícios práticos estão em ordem de apresentação do curso SRE BootCamp
 
 <b> Módulo Amazon Elastic Compute Cloud (EC2)</b>
 
-2.1) Criando uma instância Linux EC2.
+2) Criando uma instância Linux EC2.
 
-2.2) Instalando um servidor WEB e configurando um security group.
+3) Instalando um servidor WEB e configurando o security group.
