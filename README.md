@@ -13,11 +13,9 @@ Os exercícios práticos estão em ordem de apresentação do curso SRE BootCamp
 
 <b>Módulo IDENTITY AND ACCESS MANAGEMENT (IAM)</b>
 
-1.1) Criando diferentes grupos e usuários no IAM.
+1) Criando diferentes grupos e usuários no IAM.
 
    https://github.com/mclsylva/aws-sre-bootcamp/blob/main/1%20-%20Criando%20Grupos%20e%20Usua%CC%81rios%20no%20IAM.pdf
-   
-1.2) Habilitando o MFA na sua conta da AWS.
 
 <b> Módulo Amazon Elastic Compute Cloud (EC2)</b>
 
