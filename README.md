@@ -19,6 +19,7 @@ Os exercícios práticos estão em ordem de apresentação do curso SRE BootCamp
 2) Habilitando o MFA na sua conta da AWS.
 
 <b> Módulo Amazon Elastic Compute Cloud (EC2)</b>
+
 3) Criando uma instância EC2.
 
 4) Instalando um servidor WEB.
