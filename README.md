@@ -3,7 +3,7 @@
 
 Bem-vindes ao curso de SRE BootCamp, módulo de conceitos básicos da AWS. Aqui você vai encontrar o passo a passo de todos os exercícios práticos do curso.
 
-Sem preguiça!!! Tão importante quanto saber a teoria é praticar!!! Então bora lá!!!
+***Sem preguiça!!! Tão importante quanto saber a teoria é praticar!!! Então bora lá!!!***
 
 Se você estiver fazendo exercíco em modo offline e tiver alguma dúvida, pode se conectar comigo pelos canais abaixo:
 * email: mclsylva@hotmail.com
