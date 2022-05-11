@@ -5,7 +5,7 @@ Bem-vindes ao curso de SRE BootCamp, módulo de conceitos básicos da AWS. Aqui 
 
 ***Sem preguiça!!! Tão importante quanto saber a teoria é praticar!!! Então bora lá!!!***
 
-Se você estiver fazendo exercíco em modo offline e tiver alguma dúvida, pode se conectar comigo pelos canais abaixo:
+Se você estiver fazendo exercício em modo offline e tiver alguma dúvida, pode se conectar comigo pelos canais abaixo:
 * email: mclsylva@hotmail.com
 * linkedin: https://www.linkedin.com/in/marcelo-ortiz-da-silva-205a3914/
 
