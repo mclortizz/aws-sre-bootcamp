@@ -12,14 +12,14 @@ Se você estiver fazendo exercíco em modo offline e tiver alguma dúvida, pode 
 Os exercícios práticos estão em ordem de apresentação do curso SRE BootCamp.
 
 <b>Módulo IDENTITY AND ACCESS MANAGEMENT (IAM)</b>
-1) Criando diferentes grupos e usuários no IAM.
+1.1) Criando diferentes grupos e usuários no IAM.
 
    https://github.com/mclsylva/aws-sre-bootcamp/blob/main/1%20-%20Criando%20Grupos%20e%20Usua%CC%81rios%20no%20IAM.pdf
    
-2) Habilitando o MFA na sua conta da AWS.
+1.2) Habilitando o MFA na sua conta da AWS.
 
 <b> Módulo Amazon Elastic Compute Cloud (EC2)</b>
 
-3) Criando uma instância EC2.
+2.1) Criando uma instância EC2.
 
-4) Instalando um servidor WEB.
+2.2) Instalando um servidor WEB e configurando um security group.
