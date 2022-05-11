@@ -11,6 +11,6 @@ Se você estiver fazendo exercíco em modo offline e tiver alguma dúvida, pode 
 
 Os exercícios práticos estão em ordem de apresentação do curso SRE BootCamp.
 
-Módulo AMAZON IAM
+Módulo IDENTITY AND ACCESS MANAGEMENT (IAM)
 1) Criando diferente grupos e usuários no IAM.
 2) Habilitando o MFA na sua conta da AWS.
