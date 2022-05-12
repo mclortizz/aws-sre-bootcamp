@@ -12,6 +12,16 @@ Se você estiver fazendo exercício em modo offline e tiver alguma dúvida, pode
 Os exercícios práticos estão em ordem de apresentação do curso SRE BootCamp.
 
 ## Dia 1
+<b> Módulo Introdução AWS</b>
+
+Relatório Fórum Econômico Mundial - Futuro do Trabalho
+
+   https://github.com/mclsylva/aws-sre-bootcamp/blob/main/WEF_Future_of_Jobs_2020.pdf
+
+Quadrante Mágico para Infraestrutura do Gartner
+
+   https://www.gartner.com/technology/media-products/reprints/AWS/1-271W1OT3-PTB.html
+
 <b>Módulo IDENTITY AND ACCESS MANAGEMENT (IAM)</b>
 
 1) Criando diferentes grupos e usuários no IAM.
