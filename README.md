@@ -1,7 +1,7 @@
 # aws-sre-bootcamp
 ## Exercícios práticos sobre o módulo de fundamentos da AWS.
 
-Bem-vindes ao curso de SRE BootCamp, módulo de conceitos básicos da AWS. Aqui você vai encontrar o passo a passo de todos os exercícios práticos do curso.
+Bem vindes ao curso de SRE BootCamp, módulo de conceitos básicos da AWS. Aqui você vai encontrar o passo a passo de todos os exercícios práticos do curso.
 
 ***Sem preguiça!!! Tão importante quanto saber a teoria é praticar!!! Então bora lá!!!***
 
