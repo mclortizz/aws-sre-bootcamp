@@ -27,6 +27,8 @@ Quadrante Mágico para Infraestrutura do Gartner
 1) Criando diferentes grupos e usuários no IAM.
 
    https://github.com/mclsylva/aws-sre-bootcamp/blob/main/1%20-%20Criando%20Grupos%20e%20Usua%CC%81rios%20no%20IAM.pdf
+   
+   Dica para Aprofundar o Conhecimento: documentação AWS sobre IAM: https://aws.amazon.com/pt/iam/?nc=sn&loc=0
 
 <b> Módulo Amazon Elastic Compute Cloud (EC2)</b>
 
