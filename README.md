@@ -7,7 +7,9 @@ Bem-vindes ao curso de SRE BootCamp, módulo de conceitos básicos da AWS. Aqui 
 
 Se você estiver fazendo exercício em modo offline e tiver alguma dúvida, pode se conectar comigo pelos canais abaixo:
 * email: mclsylva@hotmail.com
-* linkedin: https://www.linkedin.com/in/marcelo-ortiz-da-silva-205a3914/
+* [Linkedin](https://www.linkedin.com/in/marcelo-ortiz-da-silva-205a3914/)
+
+E me acompanhem no [Youtube](https://www.youtube.com/channel/UC_F1n86M2VyxIuwChJp2XUA) e no [Medium](https://medium.com/@mclortizz).
 
 Os exercícios práticos estão em ordem de apresentação do curso SRE BootCamp.
 
@@ -26,22 +28,24 @@ Quadrante Mágico para Infraestrutura do Gartner
 
 1) Criando diferentes grupos e usuários no IAM.
 
-   https://github.com/mclsylva/aws-sre-bootcamp/blob/main/1%20-%20Criando%20Grupos%20e%20Usua%CC%81rios%20no%20IAM.pdf
+   [Passo a Passo](https://github.com/mclsylva/aws-sre-bootcamp/blob/main/1%20-%20Criando%20Grupos%20e%20Usua%CC%81rios%20no%20IAM.pdf)
    
-   Dica para Aprofundar o Conhecimento: documentação AWS sobre IAM: https://aws.amazon.com/pt/iam/?nc=sn&loc=0
+   >> Dica para Aprofundar o Conhecimento: [Documentação AWS sobre IAM](https://aws.amazon.com/pt/iam/?nc=sn&loc=0)
 
 <b> Módulo Amazon Elastic Compute Cloud (EC2)</b>
 
 2) Criando uma instância Linux EC2.
 
-   https://github.com/mclsylva/aws-sre-bootcamp/blob/main/2%20-%20Criando%20uma%20insta%CC%82ncia%20Linux%20EC2.pdf
+   [Passo a Passo](https://github.com/mclsylva/aws-sre-bootcamp/blob/main/2%20-%20Criando%20uma%20insta%CC%82ncia%20Linux%20EC2.pdf)
 
 3) Instalando um servidor WEB e configurando o security group.
 
-   https://github.com/mclsylva/aws-sre-bootcamp/blob/main/3%20-%20Instalando%20Servidor%20Web%20e%20Configurando%20Security%20Group.pdf
+   [Passo a Passo](https://github.com/mclsylva/aws-sre-bootcamp/blob/main/3%20-%20Instalando%20Servidor%20Web%20e%20Configurando%20Security%20Group.pdf)
   
 4) Limpando a casa.
 
-   https://github.com/mclsylva/aws-sre-bootcamp/blob/main/4%20-%20Limpando%20a%20casa.pdf
+   [Passo a Passo](https://github.com/mclsylva/aws-sre-bootcamp/blob/main/4%20-%20Limpando%20a%20casa.pdf)
+   
+   >> Dica para Aprofundar o Conhecimento: [Documentação AWS sobre EC2](https://aws.amazon.com/pt/ec2/)
 
 SE CHEGOU ATÉ AQUI: BOM TRABALHO! BOM DESCANSO E NOS VEMOS NO DIA 2!
