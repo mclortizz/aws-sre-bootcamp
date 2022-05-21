@@ -49,3 +49,12 @@ Quadrante Mágico para Infraestrutura do Gartner
    >> Dica para Aprofundar o Conhecimento: [Documentação AWS sobre EC2](https://aws.amazon.com/pt/ec2/)
 
 SE CHEGOU ATÉ AQUI: BOM TRABALHO! BOM DESCANSO E NOS VEMOS NO DIA 2!
+
+## Dia 2
+Em breve
+
+## Dia 3
+Em breve
+
+# Extras
+E1) Alterando o key pair de uma instância EC2 Linux.
