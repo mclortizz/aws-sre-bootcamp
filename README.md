@@ -58,3 +58,4 @@ Em breve
 
 # Extras
 E1) Alterando o key pair de uma instância EC2 Linux.
+    [Passo a Passo](https://github.com/mclsylva/aws-sre-bootcamp/blob/main/E1%20-%20Alterando%20a%20Key%20Pair.pdf)
