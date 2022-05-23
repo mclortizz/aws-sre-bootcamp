@@ -42,7 +42,7 @@ Quadrante Mágico para Infraestrutura do Gartner
 
    [Passo a Passo](https://github.com/mclsylva/aws-sre-bootcamp/blob/main/3%20-%20Instalando%20Servidor%20Web%20e%20Configurando%20Security%20Group.pdf)
   
-4) Limpando a casa.
+4) Limpando a casa EC2.
 
    [Passo a Passo](https://github.com/mclsylva/aws-sre-bootcamp/blob/main/4%20-%20Limpando%20a%20casa.pdf)
    
