@@ -48,11 +48,35 @@ Quadrante Mágico para Infraestrutura do Gartner
    
    >> Dica para Aprofundar o Conhecimento: [Documentação AWS sobre EC2](https://aws.amazon.com/pt/ec2/)
 
-SE CHEGOU ATÉ AQUI: BOM TRABALHO! BOM DESCANSO E NOS VEMOS NO DIA 2!
-
 ## Dia 2
-Em breve
+<b> Módulo Elastic Block Storage (EBS)</b>
 
+5) Aumentando um volume EBS.
+   
+   [Passo a Passo](https://github.com/mclsylva/aws-sre-bootcamp/blob/main/5%20-%20Aumentando%20EBS.pdf)
+   
+6) Adicionando um novo volume EBS.
+   
+   [Passo a Passo](https://github.com/mclsylva/aws-sre-bootcamp/blob/main/6%20-%20Adicionando%20Volume%20EBS.pdf)
+   
+   >> Dica para Aprofundar o Conhecimento: [Documentação AWS sobre EBS](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AmazonEBS.html?nc2=type_a)
+   
+7) Adicionando um volume EFS.
+   
+   [Passo a Passo](https://github.com/mclsylva/aws-sre-bootcamp/blob/main/7%20-%20Adicionando%20Volume%20EFS.pdf)
+   
+   >> Dica para Aprofundar o Conhecimento: [Documentação AWS sobre EFS](https://docs.aws.amazon.com/efs/latest/ug/whatisefs.html)
+   
+8) Criando um bucket S3.
+   
+   [Passo a Passo](https://github.com/mclsylva/aws-sre-bootcamp/blob/main/8%20-%20Criando%20um%20bucket%20no%20S3.pdf)
+   
+9) Criando um site estático no S3.
+   
+   [Passo a Passo](https://github.com/mclsylva/aws-sre-bootcamp/blob/main/9%20-%20Criando%20um%20site%20esta%CC%81tico%20no%20S3.pdf)
+   
+   >> Dica para Aprofundar Conhecimento: [Documentação AWS sobre S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html)
+   
 ## Dia 3
 Em breve
 
