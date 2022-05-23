@@ -42,7 +42,7 @@ Quadrante Mágico para Infraestrutura do Gartner
 
    [Passo a Passo](https://github.com/mclsylva/aws-sre-bootcamp/blob/main/3%20-%20Instalando%20Servidor%20Web%20e%20Configurando%20Security%20Group.pdf)
   
-4) Limpando a casa EC2.
+4) Limpando a casa (EC2).
 
    [Passo a Passo](https://github.com/mclsylva/aws-sre-bootcamp/blob/main/4%20-%20Limpando%20a%20casa.pdf)
    
@@ -77,7 +77,7 @@ Quadrante Mágico para Infraestrutura do Gartner
    
    >> Dica para Aprofundar Conhecimento: [Documentação AWS sobre S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html)
 
-10) Limpando a casa armazenamento.
+10) Limpando a casa (armazenamento).
 
    [Passo a Paso](https://github.com/mclsylva/aws-sre-bootcamp/blob/main/10%20-%20Limpando%20a%20casa%20(armazenamento).pdf)   
    
