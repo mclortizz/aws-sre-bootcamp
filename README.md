@@ -79,7 +79,7 @@ Quadrante Mágico para Infraestrutura do Gartner
 
 10) Limpando a casa armazenamento.
 
-   [Passo a Paso](https://github.com/mclsylva/aws-sre-bootcamp/blob/main/10%20-%20Limpando%20a%20casa%20(armazenamento).pdf)
+   [Passo a Paso](https://github.com/mclsylva/aws-sre-bootcamp/blob/main/10%20-%20Limpando%20a%20casa%20(armazenamento).pdf)   
    
 ## Dia 3
 Em breve
