@@ -60,13 +60,17 @@ Quadrante Mágico para Infraestrutura do Gartner
    [Passo a Passo](https://github.com/mclsylva/aws-sre-bootcamp/blob/main/6%20-%20Adicionando%20Volume%20EBS.pdf)
    
    >> Dica para Aprofundar o Conhecimento: [Documentação AWS sobre EBS](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AmazonEBS.html?nc2=type_a)
-   
+
+<b> Módulo Elastic File Sytem</b>
+
 7) Adicionando um volume EFS.
    
    [Passo a Passo](https://github.com/mclsylva/aws-sre-bootcamp/blob/main/7%20-%20Adicionando%20Volume%20EFS.pdf)
    
    >> Dica para Aprofundar o Conhecimento: [Documentação AWS sobre EFS](https://docs.aws.amazon.com/efs/latest/ug/whatisefs.html)
-   
+
+<b> Módulo Simple Storage Service</b>
+
 8) Criando um bucket S3.
    
    [Passo a Passo](https://github.com/mclsylva/aws-sre-bootcamp/blob/main/8%20-%20Criando%20um%20bucket%20no%20S3.pdf)
