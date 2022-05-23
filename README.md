@@ -76,6 +76,10 @@ Quadrante Mágico para Infraestrutura do Gartner
    [Passo a Passo](https://github.com/mclsylva/aws-sre-bootcamp/blob/main/9%20-%20Criando%20um%20site%20esta%CC%81tico%20no%20S3.pdf)
    
    >> Dica para Aprofundar Conhecimento: [Documentação AWS sobre S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html)
+
+10) Limpando a casa armazenamento.
+
+   [Passo a Paso](https://github.com/mclsylva/aws-sre-bootcamp/blob/main/10%20-%20Limpando%20a%20casa%20(armazenamento).pdf)
    
 ## Dia 3
 Em breve
