@@ -112,7 +112,7 @@ Quadrante Mágico para Infraestrutura do Gartner
 
 <b> Módulo Virtual Private Cloud</b>
 
-15) Criando e configurando uma VPC pública e privada.
+15) Criando e configurando uma VPC com subrede pública e privada.
 
 
    >> Dica para Aprofundar Conhecimento: [Documentação AWS sobre VPC](https://docs.aws.amazon.com/vpc/index.html) 
