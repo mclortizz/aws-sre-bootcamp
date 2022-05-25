@@ -117,7 +117,11 @@ Quadrante Mágico para Infraestrutura do Gartner
       [Passo a Passo](https://github.com/mclsylva/aws-sre-bootcamp/blob/main/15%20-%20Criando%20uma%20VPC%20com%20subrede%20pu%CC%81blica%20e%20privada.pdf)
 
 
-   >> Dica para Aprofundar Conhecimento: [Documentação AWS sobre VPC](https://docs.aws.amazon.com/vpc/index.html) 
+   >> Dica para Aprofundar Conhecimento: [Documentação AWS sobre VPC](https://docs.aws.amazon.com/vpc/index.html)
+
+16) Limpando a casa (VPC).
+
+      [Passo a Passo](https://github.com/mclsylva/aws-sre-bootcamp/blob/main/16%20-%20Limpando%20a%20casa%20(VPC).pdf)
 
 # Extras
 E1) Alterando o key pair de uma instância EC2 Linux.
