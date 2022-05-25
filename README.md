@@ -86,7 +86,36 @@ Quadrante Mágico para Infraestrutura do Gartner
    [Passo a Paso](https://github.com/mclsylva/aws-sre-bootcamp/blob/main/10%20-%20Limpando%20a%20casa%20(armazenamento).pdf)   
    
 ## Dia 3
-Em breve
+<b> Módulo Relational Database Service</b>
+
+11) Criando, acessando e interagindo com uma instância RDS MySQL.
+
+   [Passo a Passo](https://github.com/mclsylva/aws-sre-bootcamp/blob/main/11%20-%20Criando%2C%20acessando%20e%20interagindo%20com%20uma%20insta%CC%82ncia%20RDS%20My%20SQL.pdf)
+   
+12) Limpando a casa (RDS MySQL).
+
+   [Passo a Passo](https://github.com/mclsylva/aws-sre-bootcamp/blob/main/12%20-%20Deletando%20uma%20insta%CC%82ncia%20RDS%20My%20SQL.pdf)
+   
+   >> Dica para Aprofundar Conhecimento: [Documentação AWS sobre RDS](https://docs.aws.amazon.com/rds/index.html)
+   
+<b> Módulo Elastic Load Balancer</b>
+
+13) Criando um Load Balancer entre duas instâncias EC2.
+
+   [Passo a Passo](https://github.com/mclsylva/aws-sre-bootcamp/blob/main/13%20-%20Criando%20um%20Load%20Balancer%20entre%20duas%20insta%CC%82ncias%20EC2.pdf)
+
+14) Limpando a casa (Load Balancer)
+
+   [Passo a Passo](https://github.com/mclsylva/aws-sre-bootcamp/blob/main/14%20-%20Limpando%20a%20casa%20(Load%20Balancer).pdf)
+   
+   >> Dica para Aprofundar Conhecimento: [Documentação AWS sobre ELB](https://docs.aws.amazon.com/elasticloadbalancing/)
+
+<b> Módulo Virtual Private Cloud</b>
+
+15) Criando e configurando uma VPC pública e privada.
+
+
+   >> Dica para Aprofundar Conhecimento: [Documentação AWS sobre VPC](https://docs.aws.amazon.com/vpc/index.html) 
 
 # Extras
 E1) Alterando o key pair de uma instância EC2 Linux.
