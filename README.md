@@ -96,7 +96,7 @@ Quadrante Mágico para Infraestrutura do Gartner
 
       [Passo a Passo](https://github.com/mclsylva/aws-sre-bootcamp/blob/main/12%20-%20Deletando%20uma%20insta%CC%82ncia%20RDS%20My%20SQL.pdf)
    
-   >> Dica para Aprofundar Conhecimento: [Documentação AWS sobre RDS](https://docs.aws.amazon.com/rds/index.html)
+      >> Dica para Aprofundar Conhecimento: [Documentação AWS sobre RDS](https://docs.aws.amazon.com/rds/index.html)
    
 <b> Módulo Elastic Load Balancer</b>
 
@@ -108,7 +108,7 @@ Quadrante Mágico para Infraestrutura do Gartner
 
       [Passo a Passo](https://github.com/mclsylva/aws-sre-bootcamp/blob/main/14%20-%20Limpando%20a%20casa%20(Load%20Balancer).pdf)
    
-   >> Dica para Aprofundar Conhecimento: [Documentação AWS sobre ELB](https://docs.aws.amazon.com/elasticloadbalancing/)
+      >> Dica para Aprofundar Conhecimento: [Documentação AWS sobre ELB](https://docs.aws.amazon.com/elasticloadbalancing/)
 
 <b> Módulo Virtual Private Cloud</b>
 
@@ -116,12 +116,11 @@ Quadrante Mágico para Infraestrutura do Gartner
 
       [Passo a Passo](https://github.com/mclsylva/aws-sre-bootcamp/blob/main/15%20-%20Criando%20uma%20VPC%20com%20subrede%20pu%CC%81blica%20e%20privada.pdf)
 
-
-   >> Dica para Aprofundar Conhecimento: [Documentação AWS sobre VPC](https://docs.aws.amazon.com/vpc/index.html)
-
 16) Limpando a casa (VPC).
 
       [Passo a Passo](https://github.com/mclsylva/aws-sre-bootcamp/blob/main/16%20-%20Limpando%20a%20casa%20(VPC).pdf)
+
+      >> Dica para Aprofundar Conhecimento: [Documentação AWS sobre VPC](https://docs.aws.amazon.com/vpc/index.html)
 
 # Extras
 E1) Alterando o key pair de uma instância EC2 Linux.
