@@ -1,7 +1,7 @@
 # aws-sre-bootcamp
-## Exercícios práticos sobre o módulo de fundamentos da AWS.
+## Exercícios práticos sobre o módulo de fundamentos da AWS e Escalabilidade.
 
-Bem vindes ao curso de SRE BootCamp, módulo de conceitos básicos da AWS. Aqui você vai encontrar o passo a passo de todos os exercícios práticos do curso.
+Bem vindes ao curso de SRE BootCamp, módulo de conceitos básicos da AWS e Escalabilidade. Aqui você vai encontrar o passo a passo de todos os exercícios práticos do curso.
 
 ***Sem preguiça!!! Tão importante quanto saber a teoria é praticar!!! Então bora lá!!!***
 
@@ -121,6 +121,14 @@ Quadrante Mágico para Infraestrutura do Gartner
       [Passo a Passo](https://github.com/mclsylva/aws-sre-bootcamp/blob/main/16%20-%20Limpando%20a%20casa%20(VPC).pdf)
 
       >> Dica para Aprofundar Conhecimento: [Documentação AWS sobre VPC](https://docs.aws.amazon.com/vpc/index.html)
+
+## Escalabilidade
+<b> Escalabilidade EC2 - Auto Scale Plan</b>
+
+17) Criando escalabilidade EC2 através do Auto Scale Plan.
+
+      [Passo a Passo](https://github.com/mclsylva/aws-sre-bootcamp/blob/main/17%20-%20Testando%20Escalabilidade.pdf)
+
 
 # Extras
 E1) Alterando o key pair de uma instância EC2 Linux.
