@@ -131,7 +131,7 @@ Quadrante Mágico para Infraestrutura do Gartner
 
 18) Criando escalabilidade no Kubernetes - Horizontal Pod Autoscaler.
 
-      [Passo a Passo](https://github.com/mclsylva/aws-sre-bootcamp#:~:text=18%20%2D%20Testando%20Escalabilidade%20no%20Kubernetes%20%2D%20HPA.pdf)
+      [Passo a Passo](https://github.com/mclsylva/aws-sre-bootcamp/blob/main/18%20-%20Testando%20Escalabilidade%20no%20Kubernetes%20-%20HPA.pdf)
 
 # Extras
 E1) Alterando o key pair de uma instância EC2 Linux.
