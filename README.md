@@ -127,7 +127,9 @@ Quadrante Mágico para Infraestrutura do Gartner
 
 17) Criando escalabilidade EC2 através do Auto Scale Plan.
 
-      [Passo a Passo](https://github.com/mclsylva/aws-sre-bootcamp/blob/main/17%20-%20Testando%20Escalabilidade.pdf)
+      [Passo a Passo Via Console AWS](https://github.com/mclsylva/aws-sre-bootcamp/blob/main/17%20-%20Testando%20Escalabilidade.pdf)
+      
+      [Passo a Passo Via Terraform](https://github.com/mclsylva/aws-sre-bootcamp/blob/main/17%20-%20Testando%20Escalabilidade%20Via%20Terraform.pdf)
 
 18) Criando escalabilidade no Kubernetes - Horizontal Pod Autoscaler.
 
